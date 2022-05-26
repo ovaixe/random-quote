@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rquote-ovaixe",
+    name="ran-quote-ovaixe",
     version="0.0.1",
     author="Bhat Owais",
     author_email="owaisbhat996@outlook.com",
